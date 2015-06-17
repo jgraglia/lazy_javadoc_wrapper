@@ -5,3 +5,9 @@ Use py2exe (http://www.py2exe.org/) to generate a javadoc.exe file that automati
 Created in order to use a JDK8 with Matlab mcc process.
 
 http://blog.joda.org/2014/02/turning-off-doclint-in-jdk-8-javadoc.html
+
+# Build
+
+Require python 2.7 ! (py2exe requirement)
+
+   python.exe setup.py py2exe
